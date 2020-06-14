@@ -16,3 +16,5 @@ while game_on:
     list
     if(input("endgame?")=='y'):
         game_on = 0
+def bit():
+    print("hahaahaha");
