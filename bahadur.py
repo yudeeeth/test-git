@@ -18,6 +18,3 @@ while game_on:
         game_on = 0
 def bit():
     print("hahaahaha");
-
-
-"""added a comment"""
